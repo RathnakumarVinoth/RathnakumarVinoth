@@ -30,7 +30,7 @@
 | Category      | Technologies |
 |---------------|--------------|
 | **Languages** | Java, Python, JavaScript, HTML, CSS |
-| **Frontend**  | React.js, Bootstrap, Tailwind CSS, WordPress |
+| **Frontend**  | React.js, Bootstrap, Tailwind CSS, WordPress, Typescript, Javascript|
 | **Backend**   | Spring Boot, Node.js |
 | **Database**  | MongoDB, MySQL, Firebase |
 | **Design**    | Figma, Adobe XD |
