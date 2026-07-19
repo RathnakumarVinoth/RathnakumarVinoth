@@ -1,7 +1,11 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:6D28D9,100:22D3EE&height=200&section=header&text=Vinoth%20Dilshan&fontSize=46&fontColor=E5F9FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20&descColor=A5B4FC" />
+<!-- ADAPTIVE HEADER (auto-switches for GitHub dark/light mode) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:6D28D9,100:22D3EE&height=200&section=header&text=Vinoth%20Dilshan&fontSize=46&fontColor=E5F9FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20&descColor=A5B4FC" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E0F7FA,50:C4B5FD,100:67E8F9&height=200&section=header&text=Vinoth%20Dilshan&fontSize=46&fontColor=1E1B4B&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20&descColor=4C1D95" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:6D28D9,100:22D3EE&height=200&section=header&text=Vinoth%20Dilshan&fontSize=46&fontColor=E5F9FF" />
+</picture>
 
 <!-- TYPING ANIMATION -->
 <a href="#">
@@ -22,13 +26,30 @@
   <img src="https://img.shields.io/badge/Location-Sri%20Lanka-22D3EE?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0B1120" />
 </p>
 
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-8B5CF6?style=flat-square&labelColor=0B1120" />
+
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="1px" />
 
 ## About Me
 
 I'm a Full Stack Developer and BSc (Hons) Software Engineering undergraduate based in Sri Lanka, focused on building full-stack web applications across the React.js, Angular, Node.js, and Spring Boot ecosystems. I enjoy working through the entire development lifecycle — from designing frontend interfaces to building REST APIs, integrating databases, and deploying applications to the cloud.
+
+<table>
+<tr>
+<td><b>🎯 Role</b></td>
+<td>Full Stack Developer</td>
+<td><b>🎓 Education</b></td>
+<td>BSc (Hons) Software Engineering</td>
+</tr>
+<tr>
+<td><b>📍 Location</b></td>
+<td>Sri Lanka</td>
+<td><b>🧭 Focus</b></td>
+<td>React.js · Angular · Node.js · Spring Boot</td>
+</tr>
+</table>
 
 <br/>
 
@@ -117,6 +138,10 @@ Angular frontend with a Spring Boot backend and MySQL database integration.
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RathnakumarVinoth&hide_border=true&background=00000000&ring=8B5CF6&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=E5F9FF&sideNums=E5F9FF&dates=8B92B9" />
 </div>
 
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RathnakumarVinoth&bg_color=00000000&color=22D3EE&line=8B5CF6&point=E5F9FF&area=true&area_color=6D28D9&hide_border=true" width="100%" />
+</div>
+
 <br/>
 
 ## Current Focus
@@ -141,9 +166,11 @@ Angular frontend with a Spring Boot backend and MySQL database integration.
   <img src="https://img.shields.io/badge/GitHub-RathnakumarVinoth-8B5CF6?style=flat-square&logo=github&logoColor=white&labelColor=0B1120" />
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
+<i>"Always building, always learning."</i>
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:6D28D9,100:0B1120&height=100&section=footer" />
 
