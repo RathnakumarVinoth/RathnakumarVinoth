@@ -1,293 +1,150 @@
-<!-- =====================================================
-     VINOTH DILSHAN — GITHUB PROFILE README
-     Theme: Midnight Cyan × Violet
-====================================================== -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,100:312e81&height=210&section=header&text=Vinoth%20Dilshan&fontSize=48&fontColor=e2e8f0&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Software%20Engineering%20Undergraduate&descAlignY=57&descSize=18"/>
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:6D28D9,100:22D3EE&height=200&section=header&text=Vinoth%20Dilshan&fontSize=46&fontColor=E5F9FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20&descColor=A5B4FC" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1100&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+Scalable+Full-Stack+Applications;React+%7C+Angular+%7C+Node.js+%7C+Spring+Boot;SaaS+Platforms+%7C+REST+APIs+%7C+Cloud+Solutions" alt="Typing SVG"/>
-
-<br/>
-
-<a href="mailto:rathnakumarvinoth01@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<!-- TYPING ANIMATION -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=560&lines=Building+full-stack+web+applications;React.js+%7C+Node.js+%7C+Angular+%7C+Spring+Boot;BSc+(Hons)+Software+Engineering+Undergraduate" alt="Typing SVG" />
 </a>
 
-<a href="https://www.linkedin.com/in/rathnakumar-vinoth-854782259/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/RathnakumarVinoth?tab=followers">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=RathnakumarVinoth&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS"/>
+<!-- CONTACT BADGES -->
+<p>
+  <a href="mailto:rathnakumarvinoth01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rathnakumarvinoth01%40gmail.com-22D3EE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1120" />
+  </a>
+  <a href="https://www.linkedin.com/in/rathnakumar-vinoth-854782259/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1120" />
+  </a>
+  <a href="https://github.com/RathnakumarVinoth">
+    <img src="https://img.shields.io/badge/GitHub-RathnakumarVinoth-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1120" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Sri%20Lanka-22D3EE?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0B1120" />
+</p>
 
 </div>
 
----
+<br/>
 
 ## About Me
 
-I'm **Vinoth Dilshan**, a Full Stack Developer and BSc (Hons) Software Engineering undergraduate from Sri Lanka.
+I'm a Full Stack Developer and BSc (Hons) Software Engineering undergraduate based in Sri Lanka, focused on building full-stack web applications across the React.js, Angular, Node.js, and Spring Boot ecosystems. I enjoy working through the entire development lifecycle — from designing frontend interfaces to building REST APIs, integrating databases, and deploying applications to the cloud.
 
-- Experienced in developing full-stack SaaS, ERP, healthcare and cloud-based applications
-- Former Full Stack Engineer Intern at **Seekers Cloud**
-- Skilled in responsive frontend development, REST API design and database integration
-- Experienced with JWT authentication, role-based access control and multi-tenant applications
-- Familiar with AWS RDS, Amazon S3, Vercel, Render and Railway deployments
-- Interested in building secure, scalable and user-friendly software solutions
-
-> **Current focus:** Full-stack engineering, SaaS architecture, cloud integration and secure API development.
-
----
+<br/>
 
 ## Professional Experience
 
-### Full Stack Engineer Intern · Seekers Cloud
+**Full Stack Engineer Intern · Seekers Cloud**
+`December 2025 – June 2026`
 
-**December 2025 – June 2026 · Remote**
+- Developed Angular and PostgreSQL modules for the Style Hub ERP System
+- Independently developed The Cutting Edge Salon Appointment Booking System using React.js, Node.js, and Firebase
+- Worked on API integration, authentication, database optimization, testing, debugging, and performance improvements
 
-- Developed inventory, sales, reporting and user-management modules for the **Style Hub ERP System** using Angular and PostgreSQL.
-- Independently designed and developed **The Cutting Edge Salon Appointment Booking System** using React.js, Node.js and Firebase.
-- Implemented authentication, appointment scheduling, customer management and notification features.
-- Integrated REST APIs, optimized database queries and resolved application issues.
-- Conducted application testing, debugging and performance improvements.
-- Collaborated with cross-functional teams throughout the software development lifecycle.
-
----
+<br/>
 
 ## Featured Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-<h3>ShopMate LK</h3>
+### 🛒 ShopMate LK
+**SaaS POS and Inventory Management System**
 
-<strong>SaaS POS & Inventory Management System</strong>
+React.js, Vite, Node.js, Express.js, MySQL, JWT, and cloud deployment via Vercel, Render, and Railway.
 
-<br/><br/>
+<img src="https://img.shields.io/badge/React-22D3EE?style=flat-square&logo=react&logoColor=0B1120" /> <img src="https://img.shields.io/badge/Node.js-6D28D9?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-8B5CF6?style=flat-square&logo=mysql&logoColor=white" />
 
-A multi-shop SaaS platform designed for Sri Lankan retail businesses.
-
-<strong>Highlights</strong>
-
-- Multi-shop data isolation
-- POS billing and inventory tracking
-- Customer credit and supplier management
-- Role-based access control
-- Unit Master and decimal quantities
-- Sales reports and backup features
-- Cloud deployment
-
-<br/>
-
-<code>React.js</code>
-<code>Vite</code>
-<code>Node.js</code>
-<code>Express.js</code>
-<code>MySQL</code>
-<code>JWT</code>
-
-<br/><br/>
-
-<a href="https://github.com/RathnakumarVinoth/shopmate-lk">
-  <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[**View Repository →**](https://github.com/RathnakumarVinoth/shopmate-lk)
 
 </td>
-
 <td width="50%" valign="top">
 
-<h3>Mentoria</h3>
+### 🎓 Mentoria
+**Cloud-Based E-Learning Platform**
 
-<strong>Cloud-Based E-Learning Platform</strong>
+React.js, Node.js, Express.js, MySQL, JWT, with AWS RDS and Amazon S3 for cloud data and storage.
 
-<br/><br/>
+<img src="https://img.shields.io/badge/React-22D3EE?style=flat-square&logo=react&logoColor=0B1120" /> <img src="https://img.shields.io/badge/AWS-6D28D9?style=flat-square&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-8B5CF6?style=flat-square&logo=mysql&logoColor=white" />
 
-A full-stack learning platform developed for students and administrators.
-
-<strong>Highlights</strong>
-
-- Student and admin dashboards
-- Courses, lessons and quizzes
-- Assignment submission
-- JWT role-based authentication
-- AWS RDS MySQL integration
-- Private Amazon S3 storage
-- Secure presigned file URLs
-- REST API testing with Postman
-
-<br/>
-
-<code>React.js</code>
-<code>Node.js</code>
-<code>Express.js</code>
-<code>MySQL</code>
-<code>AWS</code>
-
-<br/><br/>
-
-<a href="https://github.com/cloudintel8/Mentoria">
-  <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[**View Repository →**](https://github.com/cloudintel8/Mentoria)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-<h3>ProClinic</h3>
+### 🏥 ProClinic
+**Clinic Management System**
 
-<strong>Clinic Management System</strong>
+React.js frontend connected to Spring Boot services with MongoDB for data storage.
 
-<br/><br/>
+<img src="https://img.shields.io/badge/React-22D3EE?style=flat-square&logo=react&logoColor=0B1120" /> <img src="https://img.shields.io/badge/Spring%20Boot-6D28D9?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-8B5CF6?style=flat-square&logo=mongodb&logoColor=white" />
 
-A full-stack system designed to simplify healthcare administration.
-
-<strong>Highlights</strong>
-
-- Appointment CRUD operations
-- Automated appointment reminders
-- Patient invoice management
-- Payment tracking
-- Voice-to-text support
-- Responsive user interface
-- Secure patient data handling
-
-<br/>
-
-<code>React.js</code>
-<code>Spring Boot</code>
-<code>MongoDB</code>
-
-<br/><br/>
-
-<a href="https://github.com/RathnakumarVinoth/Pro-clinic">
-  <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[**View Repository →**](https://github.com/RathnakumarVinoth/Pro-clinic)
 
 </td>
-
 <td width="50%" valign="top">
 
-<h3>LBMS</h3>
+### 📚 LBMS
+**Library Book Management System**
 
-<strong>Library Book Management System</strong>
+Angular frontend with a Spring Boot backend and MySQL database integration.
 
-<br/><br/>
+<img src="https://img.shields.io/badge/Angular-22D3EE?style=flat-square&logo=angular&logoColor=0B1120" /> <img src="https://img.shields.io/badge/Spring%20Boot-6D28D9?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-8B5CF6?style=flat-square&logo=mysql&logoColor=white" />
 
-A full-stack web application for managing and organizing library books.
-
-<strong>Highlights</strong>
-
-- Add, update and delete books
-- Search and filtering
-- MySQL database integration
-- Responsive Angular interface
-- Structured backend architecture
-- Scalable book record management
-
-<br/>
-
-<code>Angular</code>
-<code>Spring Boot</code>
-<code>MySQL</code>
-
-<br/><br/>
-
-<a href="https://github.com/RathnakumarVinoth/Library-book-management-system">
-  <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[**View Repository →**](https://github.com/RathnakumarVinoth/Library-book-management-system)
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
 ## Technology Stack
 
 <div align="center">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,angular,js,html,css,tailwind,bootstrap,vite&theme=dark&perline=8"/>
-
-### Backend & Programming
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,java,python,cs&theme=dark&perline=6"/>
-
-### Databases & Cloud
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,aws,vercel&theme=dark&perline=6"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode&theme=dark&perline=5"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/REST-APIs-0891B2?style=flat-square"/>
-<img src="https://img.shields.io/badge/JWT-Authentication-000000?style=flat-square&logo=jsonwebtokens"/>
-<img src="https://img.shields.io/badge/RBAC-Authorization-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Render-Deployment-46E3B7?style=flat-square&logo=render&logoColor=black"/>
-<img src="https://img.shields.io/badge/Railway-Deployment-0B0D0E?style=flat-square&logo=railway"/>
-
+<img src="https://skillicons.dev/icons?i=react,angular,vite,html,css,tailwind,bootstrap,js,nodejs,express,spring,java,mysql,postgres,mongodb,firebase,aws,git,github,vercel,postman,figma&theme=dark" />
 </div>
 
----
+<br/>
 
-## GitHub Overview
+## GitHub Statistics
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RathnakumarVinoth&show_icons=true&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=CBD5E1&icon_color=A78BFA&hide_rank=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RathnakumarVinoth&layout=compact&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=CBD5E1&langs_count=6"/>
-
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RathnakumarVinoth&show_icons=true&hide_border=true&theme=transparent&title_color=8B5CF6&icon_color=22D3EE&text_color=C9D1D9&bg_color=00000000" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RathnakumarVinoth&hide_border=true&background=00000000&ring=8B5CF6&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=E5F9FF&sideNums=E5F9FF&dates=8B92B9" />
 </div>
 
-> GitHub language statistics indicate repository usage and do not represent my complete skill level.
+<br/>
 
----
+## Current Focus
 
-## What I'm Working On
+- Strengthening full-stack development skills across React.js, Angular, Node.js, and Spring Boot
+- Building cloud-integrated applications with AWS and Firebase
+- Applying database design and API development best practices in real-world projects
 
-- Building scalable SaaS and business-management applications
-- Improving cloud architecture and AWS deployment knowledge
-- Developing secure REST APIs with authentication and authorization
-- Strengthening system design, testing and performance optimization skills
-- Exploring modern software engineering tools and development practices
+<br/>
 
----
-
-## Let's Connect
+## Contact
 
 <div align="center">
-
-I'm open to opportunities in:
-
-**Full Stack Development · Software Engineering · React Development · Node.js Development · Java & Spring Boot Development**
-
-<br/><br/>
 
 <a href="mailto:rathnakumarvinoth01@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-rathnakumarvinoth01%40gmail.com-22D3EE?style=flat-square&logo=gmail&logoColor=white&labelColor=0B1120" />
 </a>
-
 <a href="https://www.linkedin.com/in/rathnakumar-vinoth-854782259/">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-rathnakumar--vinoth-7C3AED?style=flat-square&logo=linkedin&logoColor=white&labelColor=0B1120" />
 </a>
-
-<br/><br/>
-
-### Building reliable software, one feature at a time.
+<a href="https://github.com/RathnakumarVinoth">
+  <img src="https://img.shields.io/badge/GitHub-RathnakumarVinoth-8B5CF6?style=flat-square&logo=github&logoColor=white&labelColor=0B1120" />
+</a>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:0f172a,100:020617&height=120&section=footer"/>
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:6D28D9,100:0B1120&height=100&section=footer" />
+
+</div>
